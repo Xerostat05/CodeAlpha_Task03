@@ -1,0 +1,29 @@
+{
+  "songs": [
+    {
+      "title": "The Good, The Bad and The Ugly",
+      "audio": "audio/The Good, The Bad and The Ugly (Main Theme).mp3",
+      "cover": "photos/the good, the bad and the ugly.jpg"
+    },
+    {
+      "title": "Death of the West",
+      "audio": "audio/Death of the West.mp3",
+      "cover": "photos/death of the west.jpg"
+    },
+    {
+      "title": "Vesuvio",
+      "audio": "audio/Vesuvio.mp3",
+      "cover": "photos/vesuvio.jpg"
+    },
+    {
+      "title": "The Great Sleep",
+      "audio": "audio/The Great Sleep.mp3",
+      "cover": "photos/the great sleep.jpg"
+    },
+    {
+      "title": "El Matador",
+      "audio": "audio/El Matador.mp3",
+      "cover": "photos/el matador.jpg"
+    }
+  ]
+}
